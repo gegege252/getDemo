@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 creating a new branch is quick and simple.
 add mergge.
-Git is free softwrae.
+Git is a free softwrae.
